@@ -1,5 +1,5 @@
 ##关于YAIM
-	YAIM——呀!IM是由原goim,FishChat,TeamTalk等主要开发人员在聚在一起脑洞之后开发的一套IM服务端.
+	YAIM——呀!IM是由原goim,FishChat,TeamTalk等主要开发人员在聚在一起脑洞之后开发的一套IM解决方案.
 ##主要参与人员
         主要参与人员(排名部分先后,以拼音字母排序):
         本起
